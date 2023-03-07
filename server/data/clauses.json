@@ -1,0 +1,242 @@
+[
+    {
+      "id": "1",
+      "title": "Purpose",
+      "clause": [
+        {
+          "text": "Transparently transactional Parties wish to explore possible business opportunity during which either Party will be required to disclose certain Confidential Information to the other Party.",
+          "type": "Transparently transactional"
+        },
+        {
+          "text": "Unclearly transactional Parties wish to explore possible business opportunity during whiche it her Party will be required to disclose certain Confidential Information to the other Party.",
+          "type": "Unclearly transactional"
+        },
+        {
+          "text": "Relational l Parties wish to explore possible business opportunity during whiche it her Party will be required to disclose certain Confidential Information to the other Party.",
+          "type": "Relational"
+        }
+      ],
+      "status": "",
+      "is_clause_delete": false
+    },
+    {
+      "id": "2",
+      "title": "Confidential information",
+      "clause": [
+        {
+          "text": "Transparently transactional shall mean any and all proprietary or business information provided by the Disclosing Party to the Receiving Party and shall include, without limitation, all knowledge or information concerning the Disclosing Party, the business, employment policies and practices, business requirements, vendors and prices, customer information, account information, business planning, business operations, administration, financials, marketing, sales, investment strategies, sales data, flow charts, projections, ideas, strategies, pricing information, information technology architectures and solutions and systems, inventions, patents, products, processes, methods, techniques, software, computer programs, computer systems Read more",
+          "type": "Transparently transactional"
+        },
+        {
+          "text": "Unclearly transactional shall mean any and all proprietary or business information provided by the Disclosing Party to the Receiving Party and shall include, without limitation, all knowledge or information concerning the Disclosing Party, the business, employment policies and practices, business requirements, vendors and prices, customer information, account information, business planning, business operations, administration, financials, marketing, sales, investment strategies, sales data, flow charts, projections, ideas, strategies, pricing information, information technology architectures and solutions and systems, inventions, patents, products, processes, methods, techniques, software, computer programs, computer systems Read more",
+          "type": "Unclearly transactional"
+        },
+        {
+          "text": "Relational shall mean any and all proprietary or business information provided by the Disclosing Party to the Receiving Party and shall include, without limitation, all knowledge or information concerning the Disclosing Party, the business, employment policies and practices, business requirements, vendors and prices, customer information, account information, business planning, business operations, administration, financials, marketing, sales, investment strategies, sales data, flow charts, projections, ideas, strategies, pricing information, information technology architectures and solutions and systems, inventions, patents, products, processes, methods, techniques, software, computer programs, computer systems Read more",
+          "type": "Relational"
+        }
+      ],
+      "status": "",
+      "is_clause_delete": false
+    },
+    {
+      "id": "3",
+      "title": "Confidential Obligations",
+      "clause": [
+        {
+          "text": "Transparently transactional The Receiving Party shall maintain confidentiality and prevent disclosure of Confidential Information of Disclosing party with at least the same degree of care as it uses to protect its own confidential information but in no event with less than reasonable care. T he Receiving Party agrees not to disclose Confidential Information to any third parties without prior written consent of the Disclosing Party except to its affiliates, directors, concerned officers, employees, attorneys, consultants or professional advisors (collectively referred to as ",
+          "type": "Transparently transactional"
+        },
+        {
+          "text": "Unclearly transactional The Receiving Party shall maintain confidentiality and prevent disclosure of Confidential Information of Disclosing party with at least the same degree of care as it uses to protect its own confidential information but in no event with less than reasonable care. T he Receiving Party agrees not to disclose Confidential Information to any third parties without prior written consent of the Disclosing Party except to its affiliates, directors, concerned officers, employees, attorneys, consultants or professional advisors (collectively referred to as ",
+          "type": "Unclearly transactional"
+        },
+        {
+          "text": "Relational The Receiving Party shall maintain confidentiality and prevent disclosure of Confidential Information of Disclosing party with at least the same degree of care as it uses to protect its own confidential information but in no event with less than reasonable care. T he Receiving Party agrees not to disclose Confidential Information to any third parties without prior written consent of the Disclosing Party except to its affiliates, directors, concerned officers, employees, attorneys, consultants or professional advisors (collectively referred to as ",
+          "type": "Relational"
+        }
+      ],
+      "status": "",
+      "is_clause_delete": false
+    },
+    {
+      "id": "4",
+      "title": "No Warranty",
+      "clause": [
+        {
+          "text": "Transparently transactional All Confidential Information is provided ‘ as is. ’ Neither Party makes any warranty, express, implied or otherwise, regarding its accuracy,completeness or performance.",
+          "type": "Transparently transactional"
+        },
+        {
+          "text": "Unclearly transactional All Confidential Information is provided ‘ as is. ’ Neither Party makes any warranty, express, implied or otherwise, regarding its accuracy,completeness or performance.",
+          "type": "Unclearly transactional"
+        },
+        {
+          "text": "Relational All Confidential Information is provided ‘ as is. ’ Neither Party makes any warranty, express, implied or otherwise, regarding its accuracy,completeness or performance.",
+          "type": "Relational"
+        }
+      ],
+      "status": "",
+      "is_clause_delete": false
+    },
+    {
+      "id": "5",
+      "title": "No License",
+      "clause": [
+        {
+          "text": "Transparently transactional ach Party recogni z es that nothing in this Agreement is construed as granting it any proprietary rights or ownership, by license or otherwise, to any Confidential Information or to any intellectual property rights based on such Confidential Information.",
+          "type": "Transparently transactional"
+        },
+        {
+          "text": "Unclearly transactional ach Party recogni z es that nothing in this Agreement is construed as granting it any proprietary rights or ownership, by license or otherwise, to any Confidential Information or to any intellectual property rights based on such Confidential Information.",
+          "type": "Unclearly transactional"
+        },
+        {
+          "text": "Relational ach Party recogni z es that nothing in this Agreement is construed as granting it any proprietary rights or ownership, by license or otherwise, to any Confidential Information or to any intellectual property rights based on such Confidential Information.",
+          "type": "Relational"
+        }
+      ],
+      "status": "",
+      "is_clause_delete": false
+    },
+    {
+      "id": "6",
+      "title": "No Obligation",
+      "clause": [
+        {
+          "text": "Transparently transactional Neither the discussions nor the exchange of material or information between the Parties shall be construed as an obligation on the Parties to proceed with any business transaction with each other. Both the Parties reserve the right to reject any and all proposals made by the other Party or its Representatives with regards to potential transactions between the Parties and terminate discussions and negotiations at any time. This Agreement shall not create any partnership or other binding business relationship between the Parties.",
+          "type": "Transparently transactional"
+        },
+        {
+          "text": "Unclearly transactional Neither the discussions nor the exchange of material or information between the Parties shall be construed as an obligation on the Parties to proceed with any business transaction with each other. Both the Parties reserve the right to reject any and all proposals made by the other Party or its Representatives with regards to potential transactions between the Parties and terminate discussions and negotiations at any time. This Agreement shall not create any partnership or other binding business relationship between the Parties.",
+          "type": "Unclearly transactional"
+        },
+        {
+          "text": "Relational Neither the discussions nor the exchange of material or information between the Parties shall be construed as an obligation on the Parties to proceed with any business transaction with each other. Both the Parties reserve the right to reject any and all proposals made by the other Party or its Representatives with regards to potential transactions between the Parties and terminate discussions and negotiations at any time. This Agreement shall not create any partnership or other binding business relationship between the Parties.",
+          "type": "Relational"
+        }
+      ],
+      "status": "",
+      "is_clause_delete": false
+    },
+    {
+      "id": "7",
+      "title": "No Restrictions",
+      "clause": [
+        {
+          "text": "Transparently transactional Nothing here in mentioned in the Agreement restricts either Party fromentering into similar discussions / engagements with other parties, providedthe Confidential Information shared herein is not compromised in any manner",
+          "type": "Transparently transactional"
+        },
+        {
+          "text": "Unclearly transactional Nothing here in mentioned in the Agreement restricts either Party fromentering into similar discussions / engagements with other parties, providedthe Confidential Information shared herein is not compromised in any manner",
+          "type": "Unclearly transactional"
+        },
+        {
+          "text": "Relational Nothing here in mentioned in the Agreement restricts either Party fromentering into similar discussions / engagements with other parties, providedthe Confidential Information shared herein is not compromised in any manner",
+          "type": "Relational"
+        }
+      ],
+      "status": "",
+      "is_clause_delete": false
+    },
+    {
+      "id": "8",
+      "title": "Return",
+      "clause": [
+        {
+          "text": "Transparently transactional Upon return request of the Disclosing Party or upon termination of this Agreement, the Receiving Party shall return or destroy all Confidential Information and all copies thereof within thirty (3 0 ) days of such request or termination.",
+          "type": "Transparently transactional"
+        },
+        {
+          "text": "Unclearly transactional Upon return request of the Disclosing Party or upon termination of this Agreement, the Receiving Party shall return or destroy all Confidential Information and all copies thereof within thirty (3 0 ) days of such request or termination.",
+          "type": "Unclearly transactional"
+        },
+        {
+          "text": "Relational Upon return request of the Disclosing Party or upon termination of this Agreement, the Receiving Party shall return or destroy all Confidential Information and all copies thereof within thirty (3 0 ) days of such request or termination.",
+          "type": "Relational"
+        }
+      ],
+      "status": "",
+      "is_clause_delete": false
+    },
+    {
+      "id": "9",
+      "title": "Term",
+      "clause": [
+        {
+          "text": "Transparently transactional The term of this Agreement shall be (i) one ( 1 ) year from the E ffective Date or (ii) till the definitive agreement is signed between the Parties, whichever is earlier. T he confidentiality obligations stated in this Agreement shall survive for a period of three (3) years from the date of termination or expiration of this Agreement.",
+          "type": "Transparently transactional"
+        },
+        {
+          "text": "Unclearly transactional The term of this Agreement shall be (i) one ( 1 ) year from the E ffective Date or (ii) till the definitive agreement is signed between the Parties, whichever is earlier. T he confidentiality obligations stated in this Agreement shall survive for a period of three (3) years from the date of termination or expiration of this Agreement.",
+          "type": "Unclearly transactional"
+        },
+        {
+          "text": "Relational The term of this Agreement shall be (i) one ( 1 ) year from the E ffective Date or (ii) till the definitive agreement is signed between the Parties, whichever is earlier. T he confidentiality obligations stated in this Agreement shall survive for a period of three (3) years from the date of termination or expiration of this Agreement.",
+          "type": "Relational"
+        }
+      ],
+      "status": "",
+      "is_clause_delete": false
+    },
+    {
+      "id": "10",
+      "title": "Remedies",
+      "clause": [
+        {
+          "text": "Transparently transactional The Receiving Party agrees that any violation of this Agreement will cause irreparable injury to the Disclosing Party, entitling the Disclosing Party to obtain injunctive relief in addition to other legal remedies.",
+          "type": "Transparently transactional"
+        },
+        {
+          "text": "Unclearly transactional The Receiving Party agrees that any violation of this Agreement will cause irreparable injury to the Disclosing Party, entitling the Disclosing Party to obtain injunctive relief in addition to other legal remedies.",
+          "type": "Unclearly transactional"
+        },
+        {
+          "text": "Relational The Receiving Party agrees that any violation of this Agreement will cause irreparable injury to the Disclosing Party, entitling the Disclosing Party to obtain injunctive relief in addition to other legal remedies.",
+          "type": "Relational"
+        }
+      ],
+      "status": "",
+      "is_clause_delete": false
+    },
+    {
+      "id": "11",
+      "title": "Governing Law and Jurisdiction",
+      "clause": [
+        {
+          "text": "This Agreement may be governed and construed in accordance with thelaws of India and shall be subject to the jurisdiction of courts in Mumbai.",
+          "type": "Transparently transactional"
+        },
+        {
+          "text": "Unclearly transactional This Agreement may be governed and construed in accordance with thelaws of India and shall be subject to the jurisdiction of courts in Mumbai.",
+          "type": "Unclearly transactional"
+        },
+        {
+          "text": "Relational This Agreement may be governed and construed in accordance with thelaws of India and shall be subject to the jurisdiction of courts in Mumbai.",
+          "type": "Relational"
+        }
+      ],
+      "status": "",
+      "is_clause_delete": false
+    },
+    {
+      "id": "12",
+      "title": "Miscalleneous",
+      "clause": [
+        {
+          "text": "Transparently transactional This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior commitments / understanding in this regard and may not be amended or modified except by in writing signed by a duly authorized representative of the respective Parties. If any term or provision of this Agreement shall be hereafter declared by a final adjudication by court of competent jurisdiction to be illegal, such adjudication shall not alter the validity or enforceability of any other term or provision of this Agreement. This Agreement may be executed in several counterparts (physical or electronic form), each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. T his Agreement may not be assigned or transferred except by a mutual written consent of both the Parties",
+          "type": "Transparently transactional"
+        },
+        {
+          "text": "Unclearly transactional This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior commitments / understanding in this regard and may not be amended or modified except by in writing signed by a duly authorized representative of the respective Parties. If any term or provision of this Agreement shall be hereafter declared by a final adjudication by court of competent jurisdiction to be illegal, such adjudication shall not alter the validity or enforceability of any other term or provision of this Agreement. This Agreement may be executed in several counterparts (physical or electronic form), each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. T his Agreement may not be assigned or transferred except by a mutual written consent of both the Parties",
+          "type": "Unclearly transactional"
+        },
+        {
+          "text": "Relational This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior commitments / understanding in this regard and may not be amended or modified except by in writing signed by a duly authorized representative of the respective Parties. If any term or provision of this Agreement shall be hereafter declared by a final adjudication by court of competent jurisdiction to be illegal, such adjudication shall not alter the validity or enforceability of any other term or provision of this Agreement. This Agreement may be executed in several counterparts (physical or electronic form), each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. T his Agreement may not be assigned or transferred except by a mutual written consent of both the Parties",
+          "type": "Relational"
+        }
+      ],
+      "status": "",
+      "is_clause_delete": false
+    }
+  ]
